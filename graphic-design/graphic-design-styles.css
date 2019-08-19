@@ -1,0 +1,172 @@
+h1 {
+  margin: 1% 1% 5% 1%;
+  text-align: left;
+  color: white;
+  font-family: 'Nunito', sans-serif;
+  font-size: 3em;
+  font-weight: 100;
+  text-transform: uppercase;
+}
+h2{
+  margin: 1% 0 0 5%;
+  text-align: left;
+  color: white;
+  font-family: 'Nunito', sans-serif;
+  font-size: 2em;
+  font-weight: 100;
+}
+
+h3{
+  margin: 1%;
+  text-align: right;
+  color: white;
+  font-family: 'Nunito', sans-serif;
+  font-size: 1.2em;
+  font-weight: 300;
+}
+
+h4{
+  margin-bottom: 5%;
+  text-align: left;
+  color: white;
+  font-family: 'Nunito', sans-serif;
+  font-size: 1.2em;
+    font-weight: 400;
+    display:inline;
+    background-color: #1a1a1d;
+    width:15%;
+
+
+}
+p{
+  margin: 2% 10% 5% 10%;
+  text-align: left;
+  color: white;
+  font-family: 'Nunito', sans-serif;
+  font-size: 1.2em;
+  font-weight: 100;
+  }
+header {
+  background-color: #1a1a1d;
+}
+
+body {
+  background-color: #1a1a1d;
+  text-align: center;
+}
+
+a{
+  color:#C3073F;
+}
+.logo{
+  display: block;
+  height: 50px;
+  margin: 1% auto;
+}
+
+.fancy-link{
+  color: #C3073F;
+  text-decoration: none;
+}
+
+.fancy-link:hover{
+  text-decoration: none;
+}
+
+.fancy-link:visited{
+  color: #C3073F;
+  text-decoration: none;
+}
+
+.fancy-link {
+   color: #1F2833;
+   text-decoration: none;
+   transition: color 0.15s linear;
+   -webkit-transition: color 0.15s linear;
+   -moz-transition: color 0.15s linear;
+}
+
+.fancy-link:hover {
+   color: #C3073F;
+}
+
+.palace-rug-gallery-world{
+  height: 500px;
+}
+
+.btn{
+  margin: 5%;
+  text-align: center;
+  color: #1F2833;
+  font-family: 'Nunito', sans-serif;
+  font-size: 2em;
+  font-weight: 300;
+}
+
+.btn:hover{
+  color: #1B242D;
+  background-color: #1B242D;
+  border-color: #1B242D;
+}
+#svgspin {
+  animation: spin 240s linear infinite;
+  float: none;
+  position: relative;
+}
+
+@keyframes spin {
+  from {
+    transform: rotate(0deg)
+  }
+
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.web-design {
+  text-align: left;
+}
+
+.example-photo{
+  width: 75%;
+  margin-bottom: 5%;
+}
+
+.fancy-link2{
+  color: C3073F;
+  text-decoration: none;
+}
+
+.fancy-link2:hover{
+  text-decoration: none;
+}
+
+.fancy-link2:visited{
+  color: #C3073F;
+  text-decoration: none;
+}
+
+.fancy-link2 {
+   color: C3073F;
+   text-decoration: none;
+   transition: color 0.15s linear;
+   -webkit-transition: color 0.15s linear;
+   -moz-transition: color 0.15s linear;
+}
+
+.fancy-link2:hover {
+   color: #fa6a95;
+}
+
+.caption{
+  color:black;
+  margin: 4%;
+  font-weight: 300i;
+}
+.footer {
+   position:absolute;
+   bottom:0;
+   width:100%;
+   height:60px;   /* Height of the footer */
+}
