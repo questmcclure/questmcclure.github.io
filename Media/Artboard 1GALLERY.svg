@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 700 700" style="enable-background:new 0 0 700 700;" xml:space="preserve">
+<style type="text/css">
+	.st0{stroke:#000000;stroke-miterlimit:10;}
+	.st1{fill:#FFFFFF;stroke:#FFFFFF;stroke-miterlimit:10;}
+	.st2{fill:none;stroke:#FFFFFF;stroke-miterlimit:10;}
+	.st3{fill:none;stroke:#FFFFFF;stroke-width:2;stroke-miterlimit:10;}
+</style>
+<rect x="-189.8" y="775" class="st0" width="922" height="863"/>
+<title>Artboard 1GALLERY</title>
+<path class="st1" d="M350,100c138.1,0,250,111.9,250,250S488.1,600,350,600S100,488.1,100,350S211.9,100,350,100 M350,99.3
+	c-138.1,0.1-250,112.2-249.9,250.3c0.1,138.1,112.2,250,250.3,249.9c138.1-0.1,250-112.2,249.9-250.3
+	c-0.1-100.4-60.2-191-152.7-230.1C416.7,105.9,383.5,99.2,350,99.3z"/>
+<path class="st1" d="M414.3,110l111.4,64.3L590,285.7v128.6l-64.3,111.4L414.3,590H285.7l-111.4-64.3L110,414.3V285.7l64.3-111.4
+	L285.7,110H414.3 M414.5,109.3h-129l-0.2,0.1l-111.4,64.3l-0.2,0.1l-0.1,0.2l-64.3,111.4l-0.1,0.2v129l0.1,0.2l64.3,111.4l0.1,0.2
+	l0.2,0.1l111.4,64.3l0.2,0.1h129l0.2-0.1l111.4-64.3l0.2-0.1l0.1-0.2l64.3-111.4l0.1-0.2v-129l-0.1-0.2l-64.3-111.4l-0.1-0.2
+	l-0.2-0.1l-111.4-64.3L414.5,109.3L414.5,109.3z"/>
+<path class="st1" d="M286,111.2l238.8,64l64,238.8L414,588.8l-238.8-64l-64-238.8L286,111.2 M285.8,110.3l-0.3,0.3L110.7,285.5
+	l-0.3,0.3l0.1,0.4l64,238.8l0.1,0.4l0.4,0.1l238.8,64l0.4,0.1l0.3-0.3l174.8-174.8l0.3-0.3l-0.1-0.4l-64-238.8l-0.1-0.4l-0.4-0.1
+	l-238.8-64L285.8,110.3L285.8,110.3z"/>
+<path class="st1" d="M414,111.2L588.8,286l-64,238.8l-238.8,64L111.2,414l64-238.8L414,111.2 M414.2,110.3l-0.4,0.1l-238.8,64
+	l-0.4,0.1l-0.1,0.4l-64,238.8l-0.1,0.4l0.3,0.3l174.8,174.8l0.3,0.3l0.4-0.1l238.8-64l0.4-0.1l0.1-0.4l64-238.8l0.1-0.4l-0.3-0.3
+	L414.5,110.7L414.2,110.3L414.2,110.3z"/>
+<polygon class="st2" points="414,111.2 111.2,414 524.8,524.8 "/>
+<polygon class="st2" points="175.2,175.2 286,588.8 588.8,286 "/>
+<polygon class="st2" points="286,111.2 175.2,524.8 588.8,414 "/>
+<polygon class="st2" points="111.2,286 414,588.8 524.8,175.2 "/>
+<line class="st2" x1="350" y1="350" x2="69.7" y2="69"/>
+<line class="st2" x1="350" y1="350" x2="649.7" y2="269.7"/>
+<line class="st2" x1="350" y1="350" x2="258.7" y2="688.3"/>
+<circle class="st2" cx="76.5" cy="76.5" r="10"/>
+<circle class="st2" cx="261.2" cy="678.8" r="10"/>
+<circle class="st3" cx="640.5" cy="272.2" r="10"/>
+</svg>
